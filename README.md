@@ -2,7 +2,7 @@
 
 This repository contains issues related to the management of all group projects along with weekly progress records for all group members and collaborators.
 
-Check out the [roadmap]() for more information.
+Check out the [roadmap](https://github.com/satra/ProjectManagementTemplate/projects/1) for more information.
 
 ## Working open
 
@@ -12,7 +12,7 @@ We may have private repositories if our collaborators are more comfortable with 
 
 ## Onboarding
 
-If you're new to the group, check out the [Onboarding repository]() which will talk you through the different exercises and actions for your first few weeks in the group.
+If you're new to the group, check out the [Onboarding repository](https://github.com/WhitakerLab/Onboarding) which will talk you through the different exercises and actions for your first few weeks in the group.
 
 ## License and code of conduct
 

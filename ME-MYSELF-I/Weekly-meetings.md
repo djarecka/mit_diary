@@ -6,7 +6,8 @@
 
 #### Who did you help this week?
 
-Spent a few hours working on ClearMap and trying to help Alex to change the image for the registration.
+* Spent a few hours working on ClearMap and trying to help Alex to change the image for the registration.
+* small help with Python for Qasim 
 
 #### Who helped you this week?
 

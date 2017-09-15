@@ -11,7 +11,8 @@
 
 #### Who helped you this week?
 
-Got some help from Satra and Yarik regarding datalad and dropbox.
+* Got some help from Satra and Yarik regarding datalad and dropbox.
+* talking to Smruti about various certifications 
 
 #### What did you achieve?
 

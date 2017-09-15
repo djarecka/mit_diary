@@ -8,6 +8,7 @@
 
 * Spent a few hours working on ClearMap and trying to help Alex to change the image for the registration.
 * small help with Python for Qasim 
+* neurostar (nipype)
 
 #### Who helped you this week?
 

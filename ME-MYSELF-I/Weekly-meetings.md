@@ -1,9 +1,50 @@
 # Weekly Meetings
 
-* [14th July 2017](#date-14th-july-2017)
+* [15th September 2017](#date-15th-september-2017)
 
-### Date: 14th July 2017
-...
+### Date: 15th September 2017
+
+#### Who did you help this week?
+
+Spent a few hours working on ClearMap and trying to help Alex to change the image for the registration.
+
+#### Who helped you this week?
+
+Got some help from Satra and Yarik regarding datalad and dropbox.
+
+#### What did you achieve?
+
+* some new chnages in my traitlets PR (new classes, changes in io (this still give errors))
+* testing different pieces of creating datalad repository with my output data
+
+#### What did you struggle with?
+
+* Changing io.py for traitlets
+* Creating datalad repository from data storage in dropbox
+
+#### What else did you do this week week?
+
+* attending fMRI lectures
+* attending statistical learning lectures (not sure if will continue)
+
+#### What would you like to work on next week?
+
+* coming back to traitlets, have to finish all general files from interface directory
+* finis what Alex wants to change with registration
+* rerun all examples from nipype_tutorial and create datalad repo (still have to work on dropbox api and git annex)
+* checking tox so we can use it with regression testing
+
+
+
+#### Where do you need help from Satra?
+
+* still might need some advices how to add the output files to the datalad repository ds000114
+* possibly with traitlets
+
+#### Any other topics
+
+
+
 
 ---
 

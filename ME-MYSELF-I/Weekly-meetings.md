@@ -1,6 +1,61 @@
 # Weekly Meetings
 
 * [15th September 2017](#date-15th-september-2017)
+* [24th September 2017](#date-24th-september-2017)
+
+
+### Date: 24th September 2017
+
+#### Who did you work directly with this week?
+
+* I was running CWL examples and discussing the problems with Jakub.
+
+#### Who did you help this week?
+
+* I had a short meeting with Alex
+
+#### Who helped you this week?
+
+* Yarik helped me with creating datalad repository from files saved in dropbox.
+* Chris and Oscar helped me with PR
+* Satra explained some issues regarding regression testing
+
+#### What did you achieve?
+
+* rerun all examples from nipype_tutorial and adding to datalad repo (it's very inefficient, still have to improve the workflow)
+* finished PR on networkx
+* run CWL tutorial 
+* solved an issue
+
+#### What did you struggle with?
+
+* I'm still not sure hot to efficiently create datalad repository from files from dropbox. Yarik corrected my files names, but I'm not sure what is the best way of using `git annex addurl` (more in my email).
+* I'm having problem with running simple workflow locally using CWL (could be related to temporary directories that CWL creates), also having problem with accessing environmental variables in a `cwl` file.
+
+#### What else did you do this week week?
+
+* attending fMRI lectures
+* attending statistical learning lectures
+* a short presentation for Gablab Datablitz
+
+#### What would you like to work on next week?
+
+* coming back to traitlets, have to finish all general files from interface directory
+* debugging Alex workflow (and understanding how this should be done)
+* finish the datalad repo
+* continue running CWL examples
+
+
+
+#### Where do you need help from Satra?
+
+* gita annex/ datalad
+* possibly with traitlets
+
+#### Any other topics
+
+
+---
 
 ### Date: 15th September 2017
 

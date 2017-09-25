@@ -1,7 +1,7 @@
 # Weekly Meetings
 
 * [15th September 2017](#date-15th-september-2017)
-* [24th September 2017](#date-15th-september-2017)
+* [24th September 2017](#date-24th-september-2017)
 
 
 ### Date: 24th September 2017

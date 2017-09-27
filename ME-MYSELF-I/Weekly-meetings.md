@@ -110,6 +110,8 @@
 
 ### Date: [INSERT DATE OF MEETING]
 
+#### Who did you work directly with (i.e. we helped each other) this week?
+
 #### Who did you help this week?
 
 Replace this text with a one/two sentence description of who you helped this week and how.
@@ -129,13 +131,16 @@ Replace this text with a one/two sentence description of who helped you this wee
 * Replace this text with a bullet point list of where you struggled this week.
 * It's ok if your list is only one bullet point long!
 
+#### What else did you do this week week?
+
+
 #### What would you like to work on next week?
 
 * Replace this text with a bullet point list of what you would like to work on next week.
 * It's ok if your list is only one bullet point long!
 * Try to estimate how long each task will take.
 
-#### Where do you need help from Kirstie?
+#### Where do you need help from Satra?
 
 * Replace this text with a bullet point list of what you need help from Kirstie on.
 * It's ok if your list is only one bullet point long!

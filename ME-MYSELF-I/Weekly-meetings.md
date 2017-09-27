@@ -6,7 +6,7 @@
 
 ### Date: 24th September 2017
 
-#### Who did you work directly with this week?
+#### Who did you work directly with (i.e. we helped each other) this week?
 
 * I was running CWL examples and discussing the problems with Jakub.
 

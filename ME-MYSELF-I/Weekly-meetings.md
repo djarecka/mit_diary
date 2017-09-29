@@ -2,6 +2,57 @@
 
 * [15th September 2017](#date-15th-september-2017)
 * [24th September 2017](#date-24th-september-2017)
+* [29th September 2017](#date-29th-september-2017)
+
+
+### Date: 29th September 2017
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+
+
+#### Who did you help this week?
+
+* Checking a few thing in ClearMap for Alex
+* Neurostar
+
+#### Who helped you this week?
+
+* Satra gave me some suggestions regarding dropbox
+
+
+#### What did you achieve?
+
+* finished a github repo with data tracked by datalad (https://github.com/djarecka/datalad_repo_test); 
+  TODO: create notes!!! 
+* fixing a few more tests in traitlets PR
+
+
+#### What did you struggle with?
+
+* I still haven't fixed the traitlets error when running multiple tests from test_io.py 
+("traitlets.traitlets.TraitError: Unexpected error in TraitType: default value not set properly")
+It's realated with `JSONFileSinkInputSpec` and other `*InputSpec` classes that have `__setattr__`
+
+* My tests running simple workflow with cwl are failing, both with and without docker (but different errors), 
+more in [the notes](https://github.com/djarecka/mit_diary/wiki/cwl-notes) 
+
+#### What else did you do this week week?
+
+* attending fMRI lectures
+
+#### What would you like to work on next week?
+
+* continue working on traitlets, have to finish all general files from interface directory
+* continue working on simple workflow with CWL examples (on my own and with Jakub)
+
+
+#### Where do you need help from Satra?
+
+* suggestion what should I do with the repo with tutorial output
+* traitlets
+* possibly with cwl
+
+#### Any other topics
 
 
 ### Date: 24th September 2017

@@ -23,7 +23,8 @@
 #### What did you achieve?
 
 * finished a github repo with data tracked by datalad (https://github.com/djarecka/datalad_repo_test); 
-  TODO: create notes!!! 
+   - [notes](https://github.com/djarecka/mit_diary/wiki/datalad---dropbox)
+   
 * fixing a few more tests in traitlets PR
 
 
@@ -34,7 +35,7 @@
 It's realated with `JSONFileSinkInputSpec` and other `*InputSpec` classes that have `__setattr__`
 
 * My tests running simple workflow with cwl are failing, both with and without docker (but different errors), 
-more in [the notes](https://github.com/djarecka/mit_diary/wiki/cwl-notes) 
+more in [the notes](https://github.com/djarecka/mit_diary/wiki/cwl-wip-notes) 
 
 #### What else did you do this week week?
 

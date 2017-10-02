@@ -45,7 +45,7 @@ more in [the notes](https://github.com/djarecka/mit_diary/wiki/cwl-wip-notes)
 
 * continue working on traitlets, have to finish all general files from interface directory
 * continue working on simple workflow with CWL examples (on my own and with Jakub)
-
+* start adding exercises to nipype tutorial
 
 #### Where do you need help from Satra?
 

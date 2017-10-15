@@ -3,6 +3,55 @@
 * [15th September 2017](#date-15th-september-2017)
 * [24th September 2017](#date-24th-september-2017)
 * [29th September 2017](#date-29th-september-2017)
+* [8th October 2017](#date-8th-october-2017)
+
+### Date: 8th October 2017
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+
+* working with Jakub on cwl examples
+
+#### Who did you help this week?
+
+* short conversation with Ola about statistics
+
+#### Who helped you this week?
+
+* Jakub helped me to solve problem with docker examples run by cwl
+* Satra helped me with my traitlets PR
+
+
+#### What did you achieve?
+
+* fixing a few more tests in traitlets PR
+* solving problems with running simple workflow using cwl-runner
+* small fix to neurodocker
+* suggesting some test to traitlets
+
+
+#### What did you struggle with?
+
+* still having problem with traitlets, one of the problem related to how traitlets treats `default_value` (see the [issue](https://github.com/ipython/traitlets/issues/455))  
+
+* didn't know how to mount directory with data to docker container when running a script using cwl
+
+* having problem with creating a docker image for the nipype tutorial (some should be solved by my fix)
+
+#### What else did you do this week week?
+
+* attending fMRI lectures
+
+#### What would you like to work on next week?
+
+* continue working on traitlets, have to finish all general files from interface directory
+* creating a docker file and adding exercises to nipype tutorial
+* running more examples with cwl
+
+#### Where do you need help from Satra?
+
+
+#### Any other topics
+planning to take 3-4 days of vacation in the week 16-23 Oct.
 
 
 ### Date: 29th September 2017

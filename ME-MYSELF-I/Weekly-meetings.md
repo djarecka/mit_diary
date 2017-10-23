@@ -4,6 +4,51 @@
 * [24th September 2017](#date-24th-september-2017)
 * [29th September 2017](#date-29th-september-2017)
 * [8th October 2017](#date-8th-october-2017)
+* [15th October 2017](#date-15th-october-2017)
+
+
+### Date: 15th October 2017
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+
+#### Who did you help this week?
+
+* helped Alex with issue regarding image resolution 
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+* fixing a few more tests in traitlets PR
+* creating a PR with tests to traitlets repo
+* small PRs to PyNIDM
+
+
+#### What did you struggle with?
+
+* still having problem with traitlets container-type traits, waiting for possible changes
+
+* problems with nilearn tests, global lists are modified (probably should change the nipype classes) 
+
+* some problems with the dev version singularity (api has changed)
+
+#### What else did you do this week week?
+
+* attending fMRI lectures
+
+#### What would you like to work on next week?
+
+* continue working on traitlets
+* PyNIDM
+
+
+#### Where do you need help from Satra?
+
+
+#### Any other topics
+took some time off this week and planning to be on vacation till Wed.
+
+
 
 ### Date: 8th October 2017
 

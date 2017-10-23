@@ -5,6 +5,46 @@
 * [29th September 2017](#date-29th-september-2017)
 * [8th October 2017](#date-8th-october-2017)
 * [15th October 2017](#date-15th-october-2017)
+* [22nd October 2017](#date-22nd-october-2017)
+
+### Date: 15th October 2017
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+
+#### Who did you help this week?
+
+* some nipype users: neurostar
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+* fixing a few more tests in traitlets PR
+* changing TraitedSpec, so it doesn't change mutable variables used as inputs
+* helping with cmtk.nbs:
+  - nipype PR improving some error massages and adding tests for cmtk.nbs
+  - PR to connectomviewer
+
+
+#### What did you struggle with?
+
+* having problem with testing connectomviewer with docker container based on neurodebian (at the end wasn't important for the code I wanted to test to solve an issue)
+
+#### What else did you do this week week?
+
+
+#### What would you like to work on next week?
+
+* continue working on traitlets
+* PyNIDM
+* cwl
+* helping Alex
+
+#### Where do you need help from Satra?
+
+#### Any other topics
+were on vacation till Wed, may need to take one more day off this week
+
 
 
 ### Date: 15th October 2017

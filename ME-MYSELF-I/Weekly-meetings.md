@@ -6,8 +6,55 @@
 * [8th October 2017](#date-8th-october-2017)
 * [15th October 2017](#date-15th-october-2017)
 * [22nd October 2017](#date-22nd-october-2017)
+* [29nd October 2017](#date-29nd-october-2017)
 
-### Date: 15th October 2017
+### Date: 22th October 2017
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+
+#### Who did you help this week?
+
+* some nipype users: neurostar, nipype
+
+#### Who helped you this week?
+
+* Satra talked to me about traitlets, and explained why I should be creating a new PR.
+
+#### What did you achieve?
+
+* fixing a few more tests in traitlets PR
+* pytest cleaning
+* reviewing some issues
+* some basic tests for nidm
+* creating a PR for ants issue
+
+
+#### What did you struggle with?
+
+* connecting nipype_tutorial to mybinder
+* understanding how to use conftest.py andd pytest.ini with pytest
+* figuring out ants. registration interfaces (what should be mandatory, default etc.)
+
+#### What else did you do this week week?
+
+
+#### What would you like to work on next week?
+
+* opening a new traitlets PR
+* finishing pytest cleaning
+* PyNIDM
+* connecting nipype_tutorial to mybinder
+* reviewing repronim training materials
+* checking combination nipype & matlab (neurostar)
+
+#### Where do you need help from Satra?
+
+#### Any other topics
+took a day off
+
+
+
+### Date: 22th October 2017
 
 #### Who did you work directly with (i.e. we helped each other) this week?
 

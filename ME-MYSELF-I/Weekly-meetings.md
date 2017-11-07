@@ -6,9 +6,59 @@
 * [8th October 2017](#date-8th-october-2017)
 * [15th October 2017](#date-15th-october-2017)
 * [22nd October 2017](#date-22nd-october-2017)
-* [29nd October 2017](#date-29nd-october-2017)
+* [29th October 2017](#date-29th-october-2017)
+* [5th November 2017](#date-5th-november-2017)
 
-### Date: 22th October 2017
+
+### Date: 5th November 2017
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+
+#### Who did you help this week?
+
+* some nipype users: neurostar, nipype
+* helped David qith github workflow and CI
+
+#### Who helped you this week?
+
+* Jakub helped me with neurodocker and a new Dockerfile for nipype_tutorial
+* Satra suggested changes to nipype_tutorial notebooks
+* Mathias helped me with read-only system and testing my PR
+* Satra helped me with my pytest PR: fixing failing DataSink test
+
+
+#### What did you achieve?
+
+* finished pytest cleaning PR
+* updating nipype tutorial and testing with a new container
+* creating Dockerfile for the tutorial taht works with Binder (tested)
+* reviewing some issues
+* updating some tests in pynidm and testing David PR
+
+
+#### What did you struggle with?
+
+* connecting nipype_tutorial to mybinder
+* understanding how to use conftest.py andd pytest.ini with pytest
+* figuring out ants. registration interfaces (what should be mandatory, default etc.)
+
+#### What else did you do this week week?
+
+#### What would you like to work on next week?
+
+* reviewing repronim training materials
+* creating examples for neurodocker
+* opening a new traitlets PR
+* exercises and CI to nipype_tutorial
+* checking combination nipype & matlab (neurostar)
+
+#### Where do you need help from Satra?
+
+#### Any other topics
+
+
+
+### Date: 29th October 2017
 
 #### Who did you work directly with (i.e. we helped each other) this week?
 

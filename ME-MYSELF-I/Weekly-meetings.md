@@ -8,6 +8,63 @@
 * [22nd October 2017](#date-22nd-october-2017)
 * [29th October 2017](#date-29th-october-2017)
 * [5th November 2017](#date-5th-november-2017)
+* [15th November 2017](#date-15th-november-2017)
+
+
+### Date: 15th November 2017
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+* with David on PyNIDM tests
+
+#### Who did you help this week?
+
+* brainhack participant to work preprocessing on her data
+* software carpentry participants
+* repronim training participants
+* explaining docker to Julie
+* explaining git/datalad to conference participants
+
+#### Who helped you this week?
+
+* Yarik helped me with datalad subdirectory
+* David was explaining me prov library
+* Jakub helped me to fix docker for nipype tutorial
+
+
+#### What did you achieve?
+
+* updating repronim training lessons
+* adding examples for neurodocker
+* updating nipype tutorial
+* adding some simple tests to PyNIDM
+
+
+#### What did you struggle with?
+
+* installing docker on various platforms
+* changing nipype.test do it can use option from pytest.ini
+* understanding prov library and ho to access/check all attributes
+
+#### What else did you do this week?
+* sfn (brainhack, software carpentry, repronim training)
+
+
+#### What would you like to work on next week?
+
+* regression tests with Jakub
+* opening a new traitlets PR (?)
+* exercises and CI to nipype_tutorial
+* reading about prov and adding tests to PyNIDM
+
+
+#### Where do you need help from Satra?
+* choosing an alternative library to traitlets
+* choosing the best way for testing PyNIDM/prov
+
+#### Any other topics
+Next week will be working 3 days remotely and afk for Thanksgiving (probably Wed-Sat)
+
+
 
 
 ### Date: 5th November 2017

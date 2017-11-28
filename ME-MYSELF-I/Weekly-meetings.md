@@ -9,6 +9,55 @@
 * [29th October 2017](#date-29th-october-2017)
 * [5th November 2017](#date-5th-november-2017)
 * [15th November 2017](#date-15th-november-2017)
+* [26th November 2017](#date-26th-november-2017)
+
+### Date: 26th November 2017
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+* with Jakub on neurodocker for regression test
+
+#### Who did you help this week?
+
+* nipype users
+* explaining docker to my previous collaborator
+
+
+#### Who helped you this week?
+
+* Jakub created for me Dockerfile for a C++ library
+* Satra explained to me problem with running fsl script in jupyter notebook
+* Satra and Mathias helped me with solving the fsl nipype issue
+
+#### What did you achieve?
+
+* solving some nipype issues
+* finishing PR for neurodocker
+* adding exercises to nipype tutorial [WIP]
+* updating repository&CI for regression tests
+* adding interfaces to regression [WIP]
+
+
+#### What did you struggle with?
+
+* understanding fsl checks in nipype
+
+#### What else did you do this week?
+* meeting with Satra to talk about VM+Docker servers 
+
+
+#### What would you like to work on next week?
+
+* regression tests with Jakub
+* finishing exercises and creating CI for nipype_tutorial
+* reading more about prov and update PyNIDM
+* post about docker (?)
+
+
+#### Where do you need help from Satra?
+
+
+#### Any other topics
+* working remotely on Mon/Tue
 
 
 ### Date: 15th November 2017

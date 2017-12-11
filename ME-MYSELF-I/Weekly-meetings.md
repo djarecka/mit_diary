@@ -31,6 +31,7 @@
 
 * solving some nipype issues
 * closing doem old pr/issues
+* reviewing the olf traitlets issue and collect changes that are valid for the traits version
 * finishing PR exercises to nipype tutorial
 * writing first simple version of regtest framework
 
@@ -50,6 +51,7 @@
 * new api
 * regression tests: learning `scatter`, adding docker creation to cwl
 * nipype: old pr, issues
+* my traitlets pr base issue (create a new pr)
 
 #### Where do you need help from Satra?
 
@@ -85,6 +87,7 @@
 * adding exercises to nipype tutorial [WIP]
 * updating repository&CI for regression tests
 * adding interfaces to regression [WIP]
+
 
 
 #### What did you struggle with?

@@ -41,6 +41,7 @@
 
 #### What else did you do this week?
 
+* applying for IAP (suggesting 2 workshops) 
 * meeting with Paul and Lee
 * meeting with Satra
 

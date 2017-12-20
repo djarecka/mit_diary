@@ -10,6 +10,58 @@
 * [5th November 2017](#date-5th-november-2017)
 * [15th November 2017](#date-15th-november-2017)
 * [26th November 2017](#date-26th-november-2017)
+* [10th December 2017](#date-10th-december-2017)
+
+
+### Date: 10th December 2017 (for 2 weeks)
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+* with Jakub on regression tests
+
+#### Who did you help this week?
+
+* nipype users
+
+#### Who helped you this week?
+
+* Jakub with neurodocker for regtest
+* Satra helped me to understand how to use cwl with regtest
+
+#### What did you achieve?
+
+* solving some nipype issues
+* closing doem old pr/issues
+* reviewing the olf traitlets issue and collect changes that are valid for the traits version
+* finishing PR exercises to nipype tutorial
+* writing first simple version of regtest framework
+
+
+#### What did you struggle with?
+
+* understanding how to use cwl with regtest
+
+#### What else did you do this week?
+
+* applying for IAP (suggesting 2 workshops) 
+* meeting with Paul and Lee
+* meeting with Satra
+
+#### What would you like to work on next week?
+
+* new api
+* regression tests: learning `scatter`, adding docker creation to cwl
+* nipype: old pr, issues
+* my traitlets pr base issue (create a new pr)
+
+#### Where do you need help from Satra?
+
+* nipype - new api
+* nipype - old pr
+
+
+#### Any other topics
+
+
 
 ### Date: 26th November 2017
 
@@ -35,6 +87,7 @@
 * adding exercises to nipype tutorial [WIP]
 * updating repository&CI for regression tests
 * adding interfaces to regression [WIP]
+
 
 
 #### What did you struggle with?

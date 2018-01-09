@@ -11,6 +11,48 @@
 * [15th November 2017](#date-15th-november-2017)
 * [26th November 2017](#date-26th-november-2017)
 * [10th December 2017](#date-10th-december-2017)
+* [19th December 2017](#date-19th-december-2017)
+
+### Date: 19th December 2017
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+
+
+#### Who did you help this week?
+
+* nipype users
+
+#### Who helped you this week?
+
+* Jakub with neurodocker for regtest
+* Satra helped me with abstract 
+* Satra gave me some ideas about regtests and plots
+
+#### What did you achieve?
+
+* regtest: adding a basic version of Simple Workflow, extent the cwl part and adding a simple plotting
+* submitting abstract to OHBM
+* submitting proposal to IAP
+* reviewing my old api branch and reorganizing 
+* reviewing some old issues with Alex
+
+
+#### What did you struggle with?
+
+
+#### What would you like to work on next week?
+
+* new api
+* regression tests: learning `scatter`
+* nipype: old pr, issues
+
+
+#### Where do you need help from Satra?
+
+
+#### Any other topics
+
+* in Europe since Dec 20th (limited work till Jan 2nd, will take some extra vacation days) 
 
 
 ### Date: 10th December 2017 (for 2 weeks)

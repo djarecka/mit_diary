@@ -12,6 +12,50 @@
 * [26th November 2017](#date-26th-november-2017)
 * [10th December 2017](#date-10th-december-2017)
 * [19th December 2017](#date-19th-december-2017)
+* [8th January 2018](#date-8th-january-2018)
+
+
+### Date: 8th January 2018
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+
+
+#### Who did you help this week?
+
+* nipype users
+
+#### Who helped you this week?
+
+
+#### What did you achieve?
+
+* writing tests for nipype_tutorial
+* adding CI to nipype_tutorial
+* reviewing nipype PR/issues 
+* working on new API
+* adding plotly plots to regtests
+
+#### What did you struggle with?
+* new API design
+* best way of parallel coordinates
+
+
+#### What would you like to work on next week?
+
+* new api
+* cleaning regression tests class
+* nipype old issues
+
+#### Where do you need help from Satra?
+
+* new nipype api 
+
+#### Any other topics
+
+* took a few days of vacations during last 2 weeks
+
+
+
 
 ### Date: 19th December 2017
 

@@ -13,6 +13,46 @@
 * [10th December 2017](#date-10th-december-2017)
 * [19th December 2017](#date-19th-december-2017)
 * [8th January 2018](#date-8th-january-2018)
+* [19th January 2018](#date-19th-february-2018)
+
+### Date: 19th February 2018
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+
+* talked to Jakub about regtest
+
+#### Who did you help this week?
+
+* nipype users
+* talked to Ola about git
+
+
+#### Who helped you this week?
+
+* Satra	 suggested what is important for regtest
+* talked to Satra about	new API
+
+
+#### What did you achieve?
+
+* working on new API (multiprocessing plugin)
+* some cleaning regtest
+
+#### What did you struggle with?
+* new API design
+* multiprocessing library
+* using cwl with dynamically created docker container
+* setting spm/matlab paths in nipype (current issue)
+
+#### What would you like to work on next week?
+
+* new api
+* regression tests
+* nipype old issues
+
+#### Where do you need help from Satra?
+
+#### Any other topics
 
 
 ### Date: 8th January 2018

@@ -14,6 +14,50 @@
 * [19th December 2017](#date-19th-december-2017)
 * [8th January 2018](#date-8th-january-2018)
 * [19th January 2018](#date-19th-february-2018)
+* [25th January 2018](#date-25th-february-2018)
+
+
+### Date: 25th February 2018
+
+#### Who did you work directly with (i.e. we helped each other) this week?
+
+* talked to Chris about nipype prs and issues 
+
+#### Who did you help this week?
+
+* nipype users
+* nipype_tutorial user
+* testing Matlab/SPM
+
+
+#### Who helped you this week?
+
+* talked to Chris about nipype interfaces, tutorial, api
+
+#### What did you achieve?
+
+* finishing a few pr 
+* implemented the simple version of workflow (suggested by Satra) with API (multiprocessing plugin)
+* using simple call back from multiproc calls
+
+#### What did you struggle with?
+* new API design
+* multiprocessing library
+
+#### What would you like to work on next week?
+
+* new api
+* regression tests
+* update contributing.md part of documentation 
+
+#### Where do you need help from Satra?
+
+*new api
+
+#### Any other topics
+
+* going CO on Wed
+
 
 ### Date: 19th February 2018
 

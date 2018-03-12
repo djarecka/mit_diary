@@ -13,8 +13,50 @@
 * [10th December 2017](#date-10th-december-2017)
 * [19th December 2017](#date-19th-december-2017)
 * [8th January 2018](#date-8th-january-2018)
-* [19th January 2018](#date-19th-february-2018)
-* [25th January 2018](#date-25th-february-2018)
+* [19th February 2018](#date-19th-february-2018)
+* [25th February 2018](#date-25th-february-2018)
+* [11th March 2018](#date-11th-march-2018)
+
+
+### Date: 11th March 2018
+
+#### Who did you help this week?
+
+* Michael with Nipype Tutorial
+* nipype users 
+* talked to Tania about reproducible workshops idea
+
+#### Who helped you this week?
+
+* Satra and Chris helped me with updating the documentation
+* Tal helped me with changes in Nipype Tutorial, so it works with new version of grabbit
+* Yarik answered to my DataLad issue (Nipype Tutorial stopped working with the current version)
+
+#### What did you achieve?
+
+* updating Nipype documentation
+* implementing mapper in new API
+* fix (workarond) Nipype Tutorial related to new versions of DataLad, grabbit, matplotlib
+* a few small updates to RegTests
+
+#### What did you struggle with?
+* new API design
+* new versions of libraries with Nipype Tutorial
+
+#### What would you like to work on next week?
+
+* regression tests
+* new api
+
+
+#### Where do you need help from Satra?
+
+
+#### Any other topics
+
+* took a vacation days
+* got sick during weekend, probably won't work full-time today
+
 
 
 ### Date: 25th February 2018

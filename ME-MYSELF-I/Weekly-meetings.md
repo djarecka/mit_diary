@@ -16,6 +16,44 @@
 * [19th February 2018](#date-19th-february-2018)
 * [25th February 2018](#date-25th-february-2018)
 * [11th March 2018](#date-11th-march-2018)
+* [25th March 2018](#date-25th-march-2018)
+
+### Date: 25th March 2018
+
+#### Who did you help this week?
+
+* Michael with Nipype Tutorial
+* nipype users
+* neurostar
+
+#### Who helped you this week?
+
+* Yarik helped me with datalad
+* Tristan explained me Boutiques
+
+#### What did you achieve?
+
+* introducing reduce function to the new API
+* adding scatter to RegTests (workaround, problems with files)
+
+#### What did you struggle with?
+* new API design
+* scatter over files with CWL
+
+#### What would you like to work on next week?
+
+* regression tests: adding extra cwl files for different types of tests
+* regression tests: working with Jakub on Dashboard
+* new api
+* machine learning: learning
+
+#### Where do you need help from Satra?
+
+
+#### Any other topics
+
+* took vacation days
+* went to Neuroinformatics Workshop
 
 
 ### Date: 11th March 2018

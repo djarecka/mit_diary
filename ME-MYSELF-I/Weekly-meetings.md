@@ -29,12 +29,14 @@
 #### Who helped you this week?
 
 * Satra and Chris helped me with updating the documentation
+* Satra helped me with api
 * Tal helped me with changes in Nipype Tutorial, so it works with new version of grabbit
 * Yarik answered to my DataLad issue (Nipype Tutorial stopped working with the current version)
 
 #### What did you achieve?
 
 * updating Nipype documentation
+* changes to new API after Satra suggestions
 * implementing mapper in new API
 * fix (workarond) Nipype Tutorial related to new versions of DataLad, grabbit, matplotlib
 * a few small updates to RegTests
@@ -47,7 +49,7 @@
 
 * regression tests
 * new api
-
+* machine learning
 
 #### Where do you need help from Satra?
 

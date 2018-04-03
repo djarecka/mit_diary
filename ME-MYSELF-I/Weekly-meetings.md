@@ -17,6 +17,56 @@
 * [25th February 2018](#date-25th-february-2018)
 * [11th March 2018](#date-11th-march-2018)
 * [25th March 2018](#date-25th-march-2018)
+* [1st April 2018](#date-1st-april-2018)
+
+
+### Date: 1st April 2018
+
+#### Who did you help this week?
+
+* nipype users
+* helping testing datalad
+* nipype_tutorial
+* discussion with Tania about reproducibility
+
+#### Who helped you this week?
+
+* Satra helped me with RegTests design
+* got answer for my CWL question
+* Yarik/GitAnnex fixed(?) problem with downloading data for tutorial 
+
+#### What did you achieve?
+
+* implemented scatter in the tests step properly
+* adding other types of tests, reorganizing tests
+
+
+#### What did you struggle with?
+* CWL features and syntax
+* RegTest: adding scatter to workflow step
+* RegTest design
+
+#### What would you like to work on next week?
+
+* regression tests: scatter to workflow step
+* regression tests: working with Jakub on Dashboard
+* new api
+* machine learning: learning
+
+
+#### Where do you need help from Satra?
+*  new API
+* regtest design
+
+#### What else did you do this week week?
+
+* started courses on html/javascript
+* some preparation to brainhack
+* some preparation to OHBM trip
+
+#### Any other topics
+
+
 
 ### Date: 25th March 2018
 

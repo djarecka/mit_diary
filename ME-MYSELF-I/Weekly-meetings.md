@@ -18,6 +18,50 @@
 * [11th March 2018](#date-11th-march-2018)
 * [25th March 2018](#date-25th-march-2018)
 * [1st April 2018](#date-1st-april-2018)
+* [8th April 2018](#date-8th-april-2018)
+
+
+### Date: 8th April 2018
+
+#### Who did you help this week?
+
+* nipype users
+
+#### Who helped you this week?
+
+* Smruti halped me to understand a few issues with js
+
+#### What did you achieve?
+
+* integrating a simple version of dashboard to tests
+* improving cwl implementation of tests
+
+
+#### What did you struggle with?
+* CWL syntax: mapping over workflow argumensts
+* CWL syntax: saving output of workflow (crashing for simple workflow)
+* RegTest design
+* dashboard design
+
+#### What would you like to work on next week?
+
+* regression tests: Dashboard
+* js: learning
+* new api
+* machine learning: learning
+
+
+#### Where do you need help from Satra?
+*  new API
+* regtest design
+
+#### What else did you do this week week?
+
+* courses on html/javascript
+* some preparation to brainhack
+* preparation to OHBM and PyCon trips
+
+#### Any other topics
 
 
 ### Date: 1st April 2018

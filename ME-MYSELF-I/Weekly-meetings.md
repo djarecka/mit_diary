@@ -19,6 +19,51 @@
 * [25th March 2018](#date-25th-march-2018)
 * [1st April 2018](#date-1st-april-2018)
 * [8th April 2018](#date-8th-april-2018)
+* [16th April 2018](#date-16th-april-2018)
+
+
+### Date: 16th April 2018
+
+#### Who did you help this week?
+
+* nipype users
+* JB to	 edit list to OHBM training participants
+* Sanu checking	   BIDS datasets
+
+#### Who helped you this week?
+
+* Satra helped me with issues with the Simple Workflow in regtest
+* Satra helped me with my nipype PRs
+* talking to Satra about new api
+
+#### What did you achieve?
+
+* fixing nipype conda install
+* cleaning default_value usage in nipype
+* fixing py3 env for simple workflow in regtest (won't be used at the end)
+
+#### What did you struggle with?
+* running simple workflow with new environments in regtests
+* writing a good test for git bash in nipype (not sure what shoule be the strategy)
+* new api: semantic & syntax
+* cleaning dashboard pr in regtest
+
+#### What would you like to work on next week?
+
+* cleaning regtest
+* js: learning and include new plots (?)
+* new api
+
+#### Where do you need help from Satra?
+
+
+#### What else did you do this week week?
+
+* courses on html/javascript
+* some preparation to brainhack
+
+#### Any other topics
+
 
 
 ### Date: 8th April 2018

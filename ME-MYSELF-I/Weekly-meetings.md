@@ -20,6 +20,49 @@
 * [1st April 2018](#date-1st-april-2018)
 * [8th April 2018](#date-8th-april-2018)
 * [16th April 2018](#date-16th-april-2018)
+* [7th May 2018](#date-7th-may-2018)
+
+
+### Date: 7nd May 2018
+
+#### Who did you help this week?
+* PR to Oscar's PRs
+* nipype users (neurostars)
+* explain basic JS to Sara
+* helped Tania reviewing slides for tutorial for PyCon
+
+#### Who helped you this week?
+* Chris helped me with PRs and default values
+* Satra helped me git version
+* Yarik help me with Datalad
+* Sara, Satra and Smruti helped me with JS plots
+
+#### What did you achieve?
+* finished my PRs
+* changing API to join
+* adding tests to API
+* including more plots to Regtest
+* abstract for Neuroinformatics
+* adding notebook about Docker to the PyCon tutorial
+* brainhack
+
+#### What did you struggle with?
+* JS and plots
+* new API
+
+#### What would you like to work on next week?
+
+* JS and plots
+* new API
+
+#### Where do you need help from Satra?
+
+
+#### What else did you do this week week?
+* courses javascript
+* organizing brainhack
+
+#### Any other topics
 
 
 ### Date: 16th April 2018

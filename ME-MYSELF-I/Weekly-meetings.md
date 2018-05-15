@@ -21,6 +21,42 @@
 * [8th April 2018](#date-8th-april-2018)
 * [16th April 2018](#date-16th-april-2018)
 * [7th May 2018](#date-7th-may-2018)
+* [13th May 2018](#date-13th-may-2018)
+
+
+### Date: 13nd May 2018
+
+#### Who did you help this week?
+* explained my tests in pynidm to Sanu
+* gave feedback to Smruti on the presentation
+* Tania to run the reproducibility tutorial
+* various Python users during the tutorial
+
+#### Who helped you this week?
+* dask team with dask cluster/client
+
+#### What did you achieve?
+* preparing Datalad notebook for the Pycon reproducibility tutorial
+* preparing a short Datalad talk 
+* using dask plugin to run parallel jobs in the new api
+
+#### What did you struggle with?
+* new API and dask
+
+#### What would you like to work on next week?
+
+* JS and plots
+* new API
+* check more talks/tutorials from PyCon
+
+#### Where do you need help from Satra?
+
+
+#### What else did you do this week week?
+* PyCon
+
+#### Any other topics
+* still at PyCon, will be on Tue
 
 
 ### Date: 7nd May 2018

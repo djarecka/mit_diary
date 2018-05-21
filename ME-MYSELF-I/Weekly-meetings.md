@@ -22,9 +22,50 @@
 * [16th April 2018](#date-16th-april-2018)
 * [7th May 2018](#date-7th-may-2018)
 * [13th May 2018](#date-13th-may-2018)
+* [20th May 2018](#date-20th-may-2018)
 
 
-### Date: 13nd May 2018
+### Date: 20th May 2018
+
+### Date: 13th May 2018
+
+#### Who did you help this week?
+* python users with installation xnd-group libraries
+
+#### Who helped you this week?
+* Michael helped me with nbval PR
+* Altair dev helped me with parallel coordinates plots ideas
+* xnd team helped me with libraries installations
+* talked to Satra about regtest and simple workflow
+
+#### What did you achieve?
+* a few small PRs to xnd/gumatah
+* moving testing nipype_tutorial to `pytest` with `nbval` 
+* adding concurrent.futures plugin to run parallel jobs in the new api
+* adding altair/vega plots to regtest
+* adding options for choosing plots in parameters file in regtest (works for the altair plots)
+
+#### What did you struggle with?
+* visualization for regtest
+* installing libraries in regtest
+
+#### What would you like to work on next week?
+
+* regtest: testing installation, checking simple workflow, visualization
+* new API
+
+#### Where do you need help from Satra?
+
+* overall regtest structure, functionality
+
+#### What else did you do this week week?
+* PyCon sprint
+
+#### Any other topics
+
+
+
+### Date: 13th May 2018
 
 #### Who did you help this week?
 * explained my tests in pynidm to Sanu

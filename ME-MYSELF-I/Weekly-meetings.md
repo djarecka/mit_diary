@@ -24,10 +24,44 @@
 * [13th May 2018](#date-13th-may-2018)
 * [20th May 2018](#date-20th-may-2018)
 * [28th May 2018](#date-28th-may-2018)
+* [3rd June 2018](#date-3rd-june-2018)
+
+
+### Date: 3rd June 2018
+
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+* Satra helped me with the poster
+
+#### What did you achieve?
+* creating poster for the retreat
+* regtest: adding new plot, and improving old
+* starting working on the ohbm presentations
+
+#### What did you struggle with?
+
+
+#### What would you like to work on next week?
+
+* regtest: adding minial changes needed for the poster
+* poster for OHB
+* prepare container presentation 
+* prepare nipype tutorial
+
+#### Where do you need help from Satra?
+
+* presentations
+* posters
+
+#### What else did you do this week week?
+* helping with SIAM award application
+
+#### Any other topics
 
 
 ### Date: 28th May 2018
-
 
 #### Who did you help this week?
 * Sanu with PyNIDM (tests)

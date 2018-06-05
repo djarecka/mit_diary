@@ -23,11 +23,49 @@
 * [7th May 2018](#date-7th-may-2018)
 * [13th May 2018](#date-13th-may-2018)
 * [20th May 2018](#date-20th-may-2018)
+* [28th May 2018](#date-28th-may-2018)
+
+
+### Date: 28th May 2018
+
+
+#### Who did you help this week?
+* Sanu with PyNIDM (tests)
+
+#### Who helped you this week?
+* talking to Satra about regtest (plots, specs)
+
+#### What did you achieve?
+* regtest: allowing for multiple files in tests 
+* regtest: allowing for 2d output from tests
+* regtest: proper merging of results from multiple tests
+* regtest: improving altair/vega plots
+* regtest: adding ruamel.yml to cwl_generator
+
+#### What did you struggle with?
+* cwl syntax and visualization for regtest
+
+#### What would you like to work on next week?
+
+* regtest: prepering some cases for the conference
+* poster for the bldg.46 retreat
+* presentation and exercises for the repronim tutorial
+* new API
+
+#### Where do you need help from Satra?
+
+* regtest 
+* posters
+* presentation
+
+#### What else did you do this week week?
+* helping with SIAM award application
+
+#### Any other topics
+* might need to take a day off for moving
 
 
 ### Date: 20th May 2018
-
-### Date: 13th May 2018
 
 #### Who did you help this week?
 * python users with installation xnd-group libraries
